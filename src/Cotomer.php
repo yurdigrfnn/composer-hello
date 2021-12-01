@@ -2,7 +2,7 @@
 
 namespace yurdiansyah\belajar;
 
-class Costomor
+class Costomer
 {
     public function __construct(private string $name)
     {
